@@ -232,58 +232,6 @@
         "paused": false
       }
     },
-    "a1acba6d-331c-4a9a-aac2-93d6248223a8": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "a1acba6d-331c-4a9a-aac2-93d6248223a8",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Al_inicio_la_chica_de_b220146b.mp4"
-        }
-      },
-      "name": "Al_inicio_la_chica_de_b220146b",
-      "order": 0.11129903762735982,
-      "parentId": "5026904b-8760-4297-976d-b764ba1ef4e1",
-      "position": [
-        0,
-        0,
-        0.01
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
     "d962481d-c0f0-4e59-924f-ecc1bbc9cfff": {
       "components": {
         "__inre_aparicion__": {

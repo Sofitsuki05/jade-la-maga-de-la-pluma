@@ -1,7 +1,7 @@
 import * as ecs from '@8thwall/ecs'
-import marcador0 from '../image-targets/Guardas_del_final.json'
+import marcador0 from '../image-targets/02.json'
 import marcador1 from '../image-targets/05.json'
-import marcador2 from '../image-targets/02.json'
+import marcador2 from '../image-targets/Guardas_del_final.json'
 
 /**
  * Carga los marcadores de imagen en el motor, y se queda vigilando que sigan puestos.
