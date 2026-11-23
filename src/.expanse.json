@@ -1,0 +1,348 @@
+{
+  "entrySpaceId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+  "objects": {
+    "10aa7895-2d86-4c8a-baf8-1fb6776711d2": {
+      "components": {},
+      "geometry": null,
+      "id": "10aa7895-2d86-4c8a-baf8-1fb6776711d2",
+      "imageTarget": {
+        "name": "Guardas_del_final"
+      },
+      "material": null,
+      "name": "Marcador · Guardas_del_final",
+      "order": 3.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "24615402-b02b-4b8f-9929-aa3c61329329": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "24615402-b02b-4b8f-9929-aa3c61329329",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "28a17e1a-8de5-4a5b-a0c5-a6c3ee9e13ab": {
+      "components": {},
+      "geometry": null,
+      "id": "28a17e1a-8de5-4a5b-a0c5-a6c3ee9e13ab",
+      "light": {
+        "type": "directional",
+        "intensity": 1
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "3f470a11-8f2f-48c1-8f88-69bc71045ea8": {
+      "components": {},
+      "geometry": null,
+      "id": "3f470a11-8f2f-48c1-8f88-69bc71045ea8",
+      "light": {
+        "type": "ambient"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "3f9fd272-9ace-40ea-8327-ecf4c1c36891": {
+      "components": {},
+      "geometry": null,
+      "id": "3f9fd272-9ace-40ea-8327-ecf4c1c36891",
+      "imageTarget": {
+        "name": "05"
+      },
+      "material": null,
+      "name": "Marcador · 05",
+      "order": 4.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "5026904b-8760-4297-976d-b764ba1ef4e1": {
+      "components": {},
+      "geometry": null,
+      "id": "5026904b-8760-4297-976d-b764ba1ef4e1",
+      "imageTarget": {
+        "name": "02"
+      },
+      "material": null,
+      "name": "Marcador · 02",
+      "order": 5.5,
+      "parentId": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "65847a8f-bf1b-47ce-855d-9b12eb00db97": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "65847a8f-bf1b-47ce-855d-9b12eb00db97",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Maga_dibujando_con_papeles_volando_3399e462_1080p.mp4"
+        }
+      },
+      "name": "Maga_dibujando_con_papeles_volando_3399e462_1080p",
+      "order": 0.9001054854579568,
+      "parentId": "3f9fd272-9ace-40ea-8327-ecf4c1c36891",
+      "position": [
+        0,
+        -3.469446951953614e-18,
+        0.020000000000000004
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "a1acba6d-331c-4a9a-aac2-93d6248223a8": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "a1acba6d-331c-4a9a-aac2-93d6248223a8",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Al_inicio_la_chica_de_b220146b.mp4"
+        }
+      },
+      "name": "Al_inicio_la_chica_de_b220146b",
+      "order": 0.11129903762735982,
+      "parentId": "5026904b-8760-4297-976d-b764ba1ef4e1",
+      "position": [
+        0,
+        0,
+        0.01
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "d962481d-c0f0-4e59-924f-ecc1bbc9cfff": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "d962481d-c0f0-4e59-924f-ecc1bbc9cfff",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Make_objects_float_slowly_7ab4c2ad_1080p.mp4"
+        },
+        "opacity": 1
+      },
+      "name": "Make_objects_float_slowly_7ab4c2ad_1080p",
+      "order": 0.3949196832382754,
+      "parentId": "10aa7895-2d86-4c8a-baf8-1fb6776711d2",
+      "position": [
+        0,
+        -3.469446951953614e-18,
+        0.020000000000000004
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    }
+  },
+  "spaces": {
+    "600c17d8-fd90-40e0-8ba0-88de65dcbfeb": {
+      "activeCamera": "24615402-b02b-4b8f-9929-aa3c61329329",
+      "id": "600c17d8-fd90-40e0-8ba0-88de65dcbfeb",
+      "name": "Espacio principal"
+    }
+  }
+}

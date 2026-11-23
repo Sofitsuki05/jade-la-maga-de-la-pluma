@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Guardas_del_final_luminance.png",
+  "resources": {
+    "originalImage": "Guardas_del_final_original.png",
+    "croppedImage": "Guardas_del_final_cropped.png",
+    "thumbnailImage": "Guardas_del_final_thumbnail.png",
+    "luminanceImage": "Guardas_del_final_luminance.png"
+  },
+  "name": "Guardas_del_final",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 397,
+    "left": 0,
+    "width": 1191,
+    "height": 1588,
+    "isRotated": true,
+    "originalWidth": 1191,
+    "originalHeight": 2381
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795392337288,
+  "updated": 1795392337288
+}
